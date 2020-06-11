@@ -1,0 +1,4 @@
+lib/app/Etapa2/Etapa2_page.dart
+test/app/Etapa2/Etapa2_page_test.dart
+lib/app/Etapa2/Etapa2_controller.dart
+test/app/Etapa2/Etapa2_controller_test.dart
